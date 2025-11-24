@@ -8,4 +8,5 @@
 * Студент Б (Співробітник)
 
 ## Контакти команди (Рядок 10 для конфлікту)
+Email А: student_a@example.com
 Telegram B: @student_b_tele
